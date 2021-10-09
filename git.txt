@@ -3,3 +3,5 @@ git clone: lấy project về
 mkdir: tạo file
 git config --global user.name "Rol_le" : cấu hình tên
 git status: kiểm tra trạng thái
+git add chọn file muốn đưa trên git hub
+git commit -m "first commit" : add message (bắt buộc)
