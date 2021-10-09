@@ -1,0 +1,5 @@
+ls: xem thư mục 
+git clone: lấy project về
+mkdir: tạo file
+git config --global user.name "Rol_le" : cấu hình tên
+git status: kiểm tra trạng thái
